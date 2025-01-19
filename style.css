@@ -397,7 +397,7 @@ footer {
 /* Large screens (Desktops) */
 @media (min-width: 1024px) {
   .SocialMedia a {
-      font-size: 30px; 
+      font-size: 31px; 
   }
 }
 
